@@ -1,0 +1,36 @@
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas específicas
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignorar ambientes virtuais
+venv/
+env/
+.venv/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de compilação Python
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar dados brutos ou arquivos grandes
+*.csv
+*.tsv
+*.xlsx
+*.h5
+
+# Ignorar saídas de análise
+*.out
+*.rds
+*.rda
+
+# Ignorar configurações locais
+*.env
+config.yaml
+config.json
