@@ -19,7 +19,7 @@ All dependencies are listed in the file `environment.yml`. I recommend you to re
 
 #### Cloud environment
 
-If you're working in a cloud server such as the [Copernicus JupyterLab environment](https://dataspace.copernicus.eu/analyse/jupyterlab), you may run the following command in a notebook cell to get the required dependencies: `!pip install earthengine-api seaborn pvlib geemap`
+If you're working in a cloud server such as the [Copernicus JupyterLab environment](https://dataspace.copernicus.eu/analyse/jupyterlab), you may run the following command in a notebook cell to get the required dependencies: `!pip install earthengine-api seaborn pvlib geemap numpy==2.2.6`
 
 ### Test data
 
