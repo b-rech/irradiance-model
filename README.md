@@ -12,7 +12,7 @@ All dependencies are listed in the file `environment.yml`. I recommend you to re
 1. Install Miniconda on your computer (instructions can be found [here](https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions)).
 2. Open the Anaconda Prompt and navigate to the folder where the file was saved using `cd path/to/your/folder`.
 3. The default environment name is irrad_model, but you can change it by editing the first line of the `environment.yml`. Then, create the Conda environment with the command `conda env create -f environment.yml`.
-4. Activate the environment using `conda activate phytomaster`.
+4. Activate the environment using `conda activate irrad_model` (or the name you used).
 5. Open the Jupyter Lab by executing `jupyter lab`.
 6. Navigate to find and open the notebooks.
 7. Have fun.
